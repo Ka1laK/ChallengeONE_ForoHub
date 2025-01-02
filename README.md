@@ -1,6 +1,6 @@
 # 🌟 ChallengeONE_ForoHub 🚀
 
-¡Bienvenido a **ForoHub**, tu API REST diseñada para gestionar tópicos de discusión con seguridad y autenticación avanzada! Este proyecto es parte del **Challenge #3** de la especialización Backend de **Oracle Next Education (ONE)**, donde se aplican las mejores prácticas para desarrollar un foro interactivo y seguro. 🎉
+¡Bienvenido a **ForoHub**, tu API REST diseñada para gestionar tópicos de discusión con seguridad y autenticación avanzada! Este proyecto es parte de la especialización Backend de **Oracle Next Education (ONE)**, donde se aplican las mejores prácticas para desarrollar un foro interactivo y seguro. 🎉
 
 ---
 
